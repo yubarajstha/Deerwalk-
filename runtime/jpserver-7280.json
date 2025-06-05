@@ -1,0 +1,13 @@
+{
+  "base_url": "/",
+  "hostname": "localhost",
+  "password": false,
+  "pid": 7280,
+  "port": 8888,
+  "root_dir": "D:\\deerwalk tranning center\\python basic",
+  "secure": false,
+  "sock": "",
+  "token": "b18fb4b3eab9ee11ab0007f9e4a03dcd7b786c7c7f74deee",
+  "url": "http://localhost:8888/",
+  "version": "2.16.0"
+}

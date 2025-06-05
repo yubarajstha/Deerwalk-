@@ -1,0 +1,13 @@
+{
+  "base_url": "/",
+  "hostname": "localhost",
+  "password": false,
+  "pid": 24168,
+  "port": 8889,
+  "root_dir": "D:\\tryt",
+  "secure": false,
+  "sock": "",
+  "token": "acf1759a788d10db7987fbf83808c261ea4d46f0efab72b8",
+  "url": "http://localhost:8889/",
+  "version": "2.16.0"
+}
