@@ -1,0 +1,33 @@
+# Gitignore for Jupyter + Python
+਍# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Jupyter runtime directory
+runtime/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# OS files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# VS Code settings
+.vscode/
+
+# Jupyter config
+.profile_default/
+.ipython/
+.ipynb_checkpoints/
+.jupyter/
+਍
