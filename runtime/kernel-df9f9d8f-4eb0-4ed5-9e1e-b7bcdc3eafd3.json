@@ -1,0 +1,13 @@
+{
+  "shell_port": 57377,
+  "iopub_port": 57378,
+  "stdin_port": 57379,
+  "control_port": 57381,
+  "hb_port": 57380,
+  "ip": "127.0.0.1",
+  "key": "d89a80ac-3904bff1bfea149334e8285b",
+  "transport": "tcp",
+  "signature_scheme": "hmac-sha256",
+  "kernel_name": "python3",
+  "jupyter_session": "D:\\deerwalk tranning center\\python basic\\day3.ipynb"
+}
