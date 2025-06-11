@@ -1,0 +1,13 @@
+{
+  "base_url": "/",
+  "hostname": "localhost",
+  "password": false,
+  "pid": 16932,
+  "port": 8888,
+  "root_dir": "D:\\deerwalk tranning center",
+  "secure": false,
+  "sock": "",
+  "token": "2d5c5d694bfd0cf197bd8a4f6427c4bef01191acd9b71c47",
+  "url": "http://localhost:8888/",
+  "version": "2.16.0"
+}
