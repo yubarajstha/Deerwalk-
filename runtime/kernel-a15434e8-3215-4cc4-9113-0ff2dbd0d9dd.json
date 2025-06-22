@@ -1,0 +1,13 @@
+{
+  "shell_port": 50142,
+  "iopub_port": 50143,
+  "stdin_port": 50144,
+  "control_port": 50146,
+  "hb_port": 50145,
+  "ip": "127.0.0.1",
+  "key": "348d8e42-74cd2e71793f6becf595ccaf",
+  "transport": "tcp",
+  "signature_scheme": "hmac-sha256",
+  "kernel_name": "python3",
+  "jupyter_session": "D:\\deerwalk tranning center\\PY0101EN-5-1-Numpy1D.ipynb"
+}

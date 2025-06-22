@@ -1,0 +1,13 @@
+{
+  "shell_port": 55302,
+  "iopub_port": 55303,
+  "stdin_port": 55304,
+  "control_port": 55306,
+  "hb_port": 55305,
+  "ip": "127.0.0.1",
+  "key": "9a13310e-5d093e7ff538b6775488f2f5",
+  "transport": "tcp",
+  "signature_scheme": "hmac-sha256",
+  "kernel_name": "python3",
+  "jupyter_session": "D:\\deerwalk tranning center\\PY0101EN-4-3-LoadData-20230424-1682294400.jupyterlite (1).ipynb"
+}
