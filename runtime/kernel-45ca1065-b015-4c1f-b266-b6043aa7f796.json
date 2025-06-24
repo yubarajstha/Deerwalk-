@@ -1,0 +1,13 @@
+{
+  "shell_port": 59969,
+  "iopub_port": 59970,
+  "stdin_port": 59971,
+  "control_port": 59973,
+  "hb_port": 59972,
+  "ip": "127.0.0.1",
+  "key": "9972ec1d-fa7fc6be13d3f650aea228d2",
+  "transport": "tcp",
+  "signature_scheme": "hmac-sha256",
+  "kernel_name": "python3",
+  "jupyter_session": "D:\\deerwalk tranning center\\python basic\\practice_data_wrangling.jupyterlite (1).ipynb"
+}
